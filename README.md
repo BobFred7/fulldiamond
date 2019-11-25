@@ -1,2 +1,3 @@
 # fulldiamond
-MineTest equivalent exchange alchemy mod
+Minetest equivalent exchange alchemy mod
+Based on Minecraft mods like ProjectE
